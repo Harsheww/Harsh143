@@ -1,4 +1,4 @@
-# My AI Project
+# My AI Classification Project
 Building AI course project
 
 ## Summary
