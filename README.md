@@ -1,4 +1,4 @@
-# Project Title
+# My AI Project
 Building AI course project
 
 ## Summary
